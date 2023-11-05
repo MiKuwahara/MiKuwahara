@@ -1,7 +1,10 @@
-<h1 align="center">:smiley:</h1>
-<h1 align="center">Hi, I'm Michelle</h1>
+# Hi :wave:, I'm Michelle!
 
-<h3 align="center">A software engineer from Dallas, TX</h3>
+Aspiring Software Engineer | Passionate about Full-Stack Development | Language Enthusiast
+
+## About Me
+
+
 
 <!--
 **MiKuwahara/MiKuwahara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
