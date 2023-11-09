@@ -12,6 +12,8 @@ I'm a dedicated and enthusiastic individual who is passionate about learning and
 - __Developer Tools:__ VS Code, Git, Postman, NetBeans, Eclipse
 - __Database:__ MongoDB, MySQL
 
+  ## Projects
+
 <!--
 **MiKuwahara/MiKuwahara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
