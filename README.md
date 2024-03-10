@@ -9,7 +9,7 @@ I'm a dedicated and enthusiastic individual who is passionate about learning and
 
 ## My Technical Skills
 
-- __Programming Languages:__ Java, JavaScript, HTML/CSS, C++, SQL
+- __Programming Languages:__ Java, JavaScript, HTML/CSS, Python, SQL
 - __Frameworks:__ ReactJS, NodeJS, ExpressJS, JSF, EJB/JPA
 - __Developer Tools:__ VS Code, Git, Postman, NetBeans, Eclipse
 - __Database:__ MongoDB, MySQL
